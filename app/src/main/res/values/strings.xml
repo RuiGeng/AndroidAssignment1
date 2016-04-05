@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Roster</string>
+    <string name="XS">XS</string>
+    <string name="S">S</string>
+    <string name="M">M</string>
+    <string name="L">L</string>
+    <string name="XL">XL</string>
+    <string name="XXL">XXL</string>
+
+    <string-array name="eyecolor_arrays">
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Hazel</item>
+        <item>Red and violet</item>
+    </string-array>
+</resources>
